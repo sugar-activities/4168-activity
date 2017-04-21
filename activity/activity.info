@@ -1,0 +1,10 @@
+[Activity]
+name = GCompris Paintings 
+activity_version = 11
+host_version = 1
+service_name = net.gcompris.paintingsActivity
+bundle_id = net.gcompris.paintingsActivity
+icon = activity-gcompris
+exec = gcompris-activity
+show_launcher = yes
+license = GPLv3+
